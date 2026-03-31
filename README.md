@@ -137,7 +137,7 @@ git clone https://github.com/sujal018/Content-Management-System.git
 ## 👨‍💻 Author
 
 **Sujal Sahu**
-📍 BE IT Student | Java Developer | Data Analytics Enthusiast
+📍 BE IT | Java Developer | Data Analytics Enthusiast
 
 ---
 
